@@ -80,12 +80,12 @@ Bot is running...
 ---
 
 ## 🤖 Usage
-• /start — Welcome message with commands list
-• /help — Help with commands
-• /encode <text> — Encode text to Base64
-• /decode <base64> — Decode Base64 text (if allowed)
-• /sendto @username <text> — Send encrypted message readable only by that user
-• Language selection inline buttons (English / Russian)
+- /start — Welcome message with commands list
+- /help — Help with commands
+- /encode <text> — Encode text to Base64
+- /decode <base64> — Decode Base64 text (if allowed)
+- /sendto @username <text> — Send encrypted message readable only by that user
+- Language selection inline buttons (English / Russian)
 
 ---
 
