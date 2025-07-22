@@ -55,9 +55,9 @@ Encodering-Bot is a Telegram bot built with Python and [aiogram](https://docs.ai
 4. Create .env file:
 Copy .env.example and fill in your bot token from @BotFather: (https://t.me/BotFather)
 
-```bash
-BOT_TOKEN=your_token_bot
-```
+  ```bash
+  BOT_TOKEN=your_token_bot
+  ```
 
 5. [Optional] Create access.json for permission management:
 Use access.json.example as a template.
